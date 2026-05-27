@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://yevisy.atabook.org/">ATABOOK</a>
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github.com/user-attachments/assets/9936281e-96b0-4e6b-81f2-ff1c6f4e71eb" alt="edited-photo (13)" style="max-width: 60%; height: auto;" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca99ec31-5738-4d64-b3eb-037d4c21d4e2" alt="edited-photo" width="40%" style="border-radius: 8px;">
+  <a href="https://yevisy.atabook.org/">ATABOOK</a>
 </p>
