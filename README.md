@@ -1,3 +1,4 @@
+<img width="1024" height="270" alt="edited-photo (16)" src="https://github.com/user-attachments/assets/dde4f4b3-bbbc-44c0-b8fd-18a8e6df0e3e" />
 <p align="center">
   <img width="650" alt="edited-photo (16)" src="https://github.com/user-attachments/assets/8cb092d7-ec46-4dc4-bb43-a7c9bee0977f" />
 <p align="center">
