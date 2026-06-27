@@ -5,7 +5,7 @@
 </p><p align="center">
   <img src="https://github.com/user-attachments/assets/c14a809e-9513-475a-b9fc-1fd5046fbe30"width="400"alt="cute-cats-divider" />
   <p align="center">
-    <img width="360"alt="086548d4fa06eb2e6bb24386e10e64e3-removebg-preview" src="https://github.com/user-attachments/assets/2ce4aaf7-fbe8-406e-b139-8d07a2a59c55" />
+    <img width="380"alt="086548d4fa06eb2e6bb24386e10e64e3-removebg-preview" src="https://github.com/user-attachments/assets/2ce4aaf7-fbe8-406e-b139-8d07a2a59c55" />
 
 </p><p align="center">
   <img width="2590"alt="edited-photo (16)" src="https://github.com/user-attachments/assets/dde4f4b3-bbbc-44c0-b8fd-18a8e6df0e3e" />
