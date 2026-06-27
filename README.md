@@ -6,3 +6,6 @@
 </p><p align="center">
   <img src="https://github.com/user-attachments/assets/c14a809e-9513-475a-b9fc-1fd5046fbe30" width="350" alt="cute-cats-divider" />
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9562a87-12da-4b72-95f4-547702cbc1b1" width="150" alt="tired-cat-meme" />
+</p>
