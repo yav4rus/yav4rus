@@ -9,4 +9,4 @@
   <img width="450"alt="086548d4fa06eb2e6bb24386e10e64e3-removebg-preview" src="https://github.com/user-attachments/assets/87744d72-e3c0-44cb-ba51-3611b4a49296" />
 <p align="center">
   <img width="710"alt="edited-photo (16)" src="https://github.com/user-attachments/assets/dde4f4b3-bbbc-44c0-b8fd-18a8e6df0e3e" />
-[![ATA](https://img.shields.io/badge/ATA-Visit%20Profile-blue?style=for-the-badge)](https://yevisy.atabook.org/)
+(https://img.shields.io/badge/ATA-Visit%20Profile-blue?style=for-the-badge)](https://yevisy.atabook.org/)
