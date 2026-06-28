@@ -10,5 +10,4 @@
 <p align="center">lazy to update ata.
 <p align="center">
 <p align="center">
-  <a href="[ĐƯỜNG_DẪN_ATABOOK_CỦA_BẠN](https://yevisy.atabook.org/)">ata</a>
-</p>
+  <a href="[ĐƯỜNG_DẪN_ATABOOK_CỦA_BẠN](https://yevisy.atabook.org/)"ata>
