@@ -9,4 +9,6 @@
 </p><p align="center"><img width="2590"alt="edited-photo (16)" src="https://github.com/user-attachments/assets/dde4f4b3-bbbc-44c0-b8fd-18a8e6df0e3e" />
 <p align="center">lazy to update ata.
 <p align="center">
-  <a href="[ĐƯỜNG_DẪN_ATABOOK_CỦA_BẠN](https://yevisy.atabook.org/)">
+<p align="center">
+  <a href="[ĐƯỜNG_DẪN_ATABOOK_CỦA_BẠN](https://yevisy.atabook.org/)">ata</a>
+</p>
